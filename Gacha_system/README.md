@@ -6,6 +6,8 @@ the actual pity/odds logic from [`gacha_engine.py`](gacha_engine.py) (soft pity
 from pull 74, 50/50 with guarantee carryover) behind a minimalist black-and-white
 star-chart front end.
 
+The actual logic was programmed entirely by me but was based on the logic of Genshin Impact and Honkai Starrail.
+
 ## Requirements
 
 - Python 3.9+
