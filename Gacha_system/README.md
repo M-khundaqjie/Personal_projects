@@ -1,10 +1,10 @@
 # Astra - Gacha Pull Simulator
 
-A web UI for a custom gacha pull system. The core logic was built by me but inspired by the systems of genshin impact and honakai starrail. This UI and system are themed around stars and constellations.
+A web UI for a custom gacha pull system, themed around stars and constellations.
 4★ pulls are named stars, 5★ pulls are named constellations. The backend runs
-the actual pity/odds logic from [`pity.py`](pity.py) (soft pity from pull 74,
-50/50 with guarantee carryover) behind a minimalist black-and-white star-chart
-front end.
+the actual pity/odds logic from [`gacha_engine.py`](gacha_engine.py) (soft pity
+from pull 74, 50/50 with guarantee carryover) behind a minimalist black-and-white
+star-chart front end.
 
 ## Requirements
 
@@ -31,8 +31,7 @@ Then open **http://127.0.0.1:5050** in your browser.
 ```
 gacha-ui/
 ├── app.py            # Flask server and API routes
-├── gacha_engine.py   # Pull/pity logic (ported from pity.py), in-memory state
-├── pity.py           # Original CLI prototype of the gacha logic
+├── gacha_engine.py   # Pull/pity logic, in-memory state
 ├── templates/
 │   └── index.html    # Page structure
 ├── static/
