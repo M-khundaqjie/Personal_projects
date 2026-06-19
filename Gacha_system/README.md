@@ -1,6 +1,6 @@
 # Astra - Gacha Pull Simulator
 
-A web UI for a custom gacha pull system, themed around stars and constellations.
+A web UI for a custom gacha pull system. The core logic was built by me but inspired by the systems of genshin impact and honakai starrail. This UI and system are themed around stars and constellations.
 4★ pulls are named stars, 5★ pulls are named constellations. The backend runs
 the actual pity/odds logic from [`pity.py`](pity.py) (soft pity from pull 74,
 50/50 with guarantee carryover) behind a minimalist black-and-white star-chart
