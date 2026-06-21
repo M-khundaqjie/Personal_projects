@@ -16,13 +16,16 @@ Most "what should I watch" lists grow faster than anyone works through them. Ani
 - **Configurable wheel** — spin the entire list, a chosen number of random titles, or a hand-picked subset.
 - **Adaptive interface** — a cyberpunk-minimal design with dark and light modes.
 
-## Screenshots
+## Demo
 
-<img width="642" height="1389" alt="IMG_9600" src="https://github.com/user-attachments/assets/13574725-dc73-410a-b6b1-cc17b27b553d" />
-<img width="642" height="1389" alt="IMG_9599" src="https://github.com/user-attachments/assets/c3cdcf52-9381-481e-9889-9ada218a579c" />
-<img width="642" height="1389" alt="IMG_9598" src="https://github.com/user-attachments/assets/9a022d51-539c-4315-afed-fbea80f8bbac" />
-<img width="642" height="1389" alt="IMG_9597" src="https://github.com/user-attachments/assets/0e699871-55ab-4e51-b9a0-ae81a0c84278" />
-<img width="642" height="1389" alt="IMG_9596" src="https://github.com/user-attachments/assets/8727618b-cf6a-45ad-a2c0-32dbffb75e8d" />
+
+https://github.com/user-attachments/assets/5f4ba728-76e4-492e-968f-76513ada79c9
+
+
+
+
+
+
 
 
 ---
