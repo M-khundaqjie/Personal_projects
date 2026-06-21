@@ -1,0 +1,32 @@
+# secrets
+config.py
+token.json
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Expo app (animix-clean/)
+animix-clean/node_modules/
+animix-clean/.expo/
+animix-clean/dist/
+animix-clean/web-build/
+animix-clean/expo-env.d.ts
+animix-clean/.kotlin/
+animix-clean/*.orig.*
+animix-clean/*.jks
+animix-clean/*.p8
+animix-clean/*.p12
+animix-clean/*.key
+animix-clean/*.mobileprovision
+animix-clean/.metro-health-check*
+animix-clean/npm-debug.*
+animix-clean/yarn-debug.*
+animix-clean/yarn-error.*
+animix-clean/.env*.local
+animix-clean/*.tsbuildinfo
+animix-clean/ios
+animix-clean/android
